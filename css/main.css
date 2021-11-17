@@ -8,5 +8,5 @@ div#lobby_banner
 {
     color: white;
     text-align: center;
-    border: 2px solid white;
+    border-image: url("../img/bd01.gif");
 }
