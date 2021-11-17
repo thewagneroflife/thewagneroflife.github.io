@@ -4,9 +4,9 @@ body
     background-color: black;
 }
 
-h1
+div#lobby_banner
 {
     color: white;
     text-align: center;
-    border: 2px, blanchedalmond;
+    border: 2px white;
 }
